@@ -1,11 +1,11 @@
 Summary:	Instant messaging program
 Name:		pidgin
-Version:	2.10.7
+Version:	2.10.9
 Release:	1
 License:	GPL
 Group:		Applications/Communications
 Source0:	http://downloads.sourceforge.net/pidgin/%{name}-%{version}.tar.bz2
-# Source0-md5:	ea88976b9952e80b702b030489f94393
+# Source0-md5:	10a4a69d077893f6dd3438cd8af94e81
 Patch0:		%{name}-nolibs.patch
 Patch1:		%{name}-desktop.patch
 Patch2:		%{name}-dbus-dir.patch
